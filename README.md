@@ -7,6 +7,9 @@ The code was developed and tested on a Raspberry Pi Pico because of the sufficie
 The display is directly controlled without the help of expanders or shift registers, so it requires ten free pins in the microcontroller to work properly.
 At the moment the library supports only one display at a time (unfortunately I only own one unit).
 
+### Library source file:
+**[alphanum.py](alphanum.py)**
+
 ### Library functions:
 ---
 ```
