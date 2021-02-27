@@ -28,7 +28,7 @@ write_char(pos, char)
 Write single character at given position to display.
 
 parameters:
-- **pos** - character position (0-4)
+- **pos** - character position (0-3)
 - **char** - single character to display
 ---
 ```
