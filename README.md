@@ -8,7 +8,12 @@ The display is directly controlled without the help of expanders or shift regist
 At the moment the library supports only one display at a time (unfortunately I only own one unit).
 
 ### Library source file:
+Raspberry Pi Pico (micropython): 
 **[alphanum.py](alphanum.py)**
+
+Raspberry Pi (python):
+**[alphanum_rpi0.py](alphanum_rpi0.py)**
+
 
 ### Library functions:
 ---
